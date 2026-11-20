@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Macro",
+  "description": "Live global markets, macroeconomic indicators, Treasury yield curves, FX cross-rates, and central bank intelligence terminal powered by open financial data sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
